@@ -5,6 +5,6 @@ public class LinieSpecializata extends Linie {
 
     @Override
     public int lungime() {
-        return super.lungime() * 2; // Lungimea dublă a liniei specializate
+        return super.lungime() * 2;
     }
 }
